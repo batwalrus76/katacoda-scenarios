@@ -1,9 +1,11 @@
 {
 	"title": "Hello World! CUDA Scenario",
   	"description": "Learn how to create a simple CUDA program",  
+	"difficulty": "beginner",
+  	"time": "10 minutes",
 	"details": {
   		"intro": {
-    			"courseData": "courseBase.sh",
+    			"courseData": "courseBase.sh"
   		}
   	},
   	"environment": {
