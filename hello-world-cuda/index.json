@@ -1,5 +1,15 @@
-"details": {
-  "intro": {
-    "courseData": "courseBase.sh",
-  }
+{
+	"title": "Hello World! CUDA Scenario",
+  	"description": "Learn how to create a simple CUDA program",  
+	"details": {
+  		"intro": {
+    			"courseData": "courseBase.sh",
+  		},
+  	}
+  	"environment": {
+ 		"uilayout": "terminal"
+  	},
+  	"backend": {
+    		"imageid": "bash"
+  	}
 }
