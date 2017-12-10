@@ -4,8 +4,8 @@
 	"details": {
   		"intro": {
     			"courseData": "courseBase.sh",
-  		},
-  	}
+  		}
+  	},
   	"environment": {
  		"uilayout": "terminal"
   	},
